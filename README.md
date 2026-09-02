@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Kazi Fahad - Full Stack Developer" width="100%" />
+  <img src="./banner.png" alt="Kazi Fahad - Full Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kazi Fahad</h1>
@@ -62,11 +62,7 @@
 
 <h4 align="center">GitHub Contributions:</h4>
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazifahad-dev/kazifahad-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazifahad-dev/kazifahad-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kazifahad-dev/kazifahad-dev/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/kazifahad-dev/kazifahad-dev/output/github-contribution-grid-snake.svg" alt="Snake Grid" />
 </p>
 
 <h4 align="center">GitHub Statistics:</h4>
