@@ -62,13 +62,17 @@
 
 <h4 align="center">GitHub Contributions:</h4>
 <p align="center">
-<img src="https://raw.githubusercontent.com/kazifahad-dev/kazifahad-dev/output/github-contribution-grid-snake.svg" alt="Snake Grid" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazifahad-dev/kazifahad-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazifahad-dev/kazifahad-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kazifahad-dev/kazifahad-dev/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazifahad-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazifahad-dev&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kazifahad-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kazifahad-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <h4 align="center">Repository Stats & Streak:</h4>
