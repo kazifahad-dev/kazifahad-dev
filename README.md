@@ -10,14 +10,14 @@
 - 🛠️ I'm currently learning **React Native, GraphQL, Docker** and **AWS**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore my Portfolio: [kazifahad.dev](#) and my [Resume](#)
-- 📝 I regularly write articles on [LinkedIn](#)
-- 📫 Feel free to reach me: [Email](mailto:kazifahad@example.com)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/kazifahad-dev/)
+- 📫 Feel free to reach me: [Email](mailto:kazifahad.net@gmail.com)
 
 <h3 align="left">Follow Me on Socials:</h3>
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/kazifahad-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kazifahad-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-kazifahad0133-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
@@ -56,11 +56,11 @@
 <h3 align="left">GitHub Statistics & Analysis:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazifahad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kazifahad-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazifahad&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazifahad-dev&theme=radical" alt="GitHub Streak" />
 </p>
 
 <h3 align="left">Random Dev Quote:</h3>
