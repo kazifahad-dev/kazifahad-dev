@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Kazi Fahad - Full Stack Developer" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kazi Fahad</h1>
 
 <p align="center">
