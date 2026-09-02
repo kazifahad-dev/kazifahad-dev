@@ -1,110 +1,69 @@
-touhidcodes/README.md
-Hello world
+<h1 align="center">Hi 👋, I'm Kazi Fahad</h1>
+<h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-Hi 👋, I'm Touhidur Zaman
-Typing SVG
+- 🖥️ I'm currently working on **React.js, Next.js, TypeScript** and **Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL,** and **Prisma** for the backend.
+- 🛠️ I'm currently learning **React Native, GraphQL, Docker** and **AWS**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 🌐 Explore my Portfolio: [kazifahad.dev](#) and my [Resume](#)
+- 📝 I regularly write articles on [LinkedIn](#)
+- 📫 Feel free to reach me: [Email](mailto:kazifahad@example.com)
 
-👋 Hi, I’m @touhidcodes
-🖥️ I’m currently working on React.js, Next.js, Typescript and Redux for frontend development.
-🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.
-🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.
-💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).
-🌐 Explore My Portfolio TouhidCodes and My Resume
-📝 I regularly write articles on LinkedIn
-📫 Feel free to reach me out Email
+<h3 align="left">Follow Me on Socials:</h3>
+<p align="left">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
- FOLLOW ME ON SOCIALS:
-touhidcodes touhidcodes#9825 touhidcodes 22104988
+<h3 align="left">Technology Stack:</h3>
 
+<p><strong>Languages:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py" />
+</p>
 
- TECHNOLOGY STACK:
-Languages:
-Languages
+<p><strong>CSS Frameworks & Libraries:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
+</p>
 
-CSS Frameworks & Libraries:
-CSS Frameworks & Libraries
+<p><strong>JavaScript Frameworks & Libraries:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+</p>
 
-JavaScript Frameworks & Libraries:
-JavaScript Frameworks & Libraries
+<p><strong>Database & Model:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
+</p>
 
-Database & Model:
-Database & Model
+<p><strong>Deployment Platform:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws" />
+</p>
 
-Deployment Platform:
-Deployment Platform
+<p><strong>Tools & Technologies:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,docker" />
+</p>
 
-Design & Graphics:
-Design & Graphics
+<h3 align="left">GitHub Statistics & Analysis:</h3>
 
-Tools & Technologies:
-Tools & Technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazifahad&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazifahad&theme=radical" alt="GitHub Streak" />
+</p>
 
- GITHUB STATISTICS & ANALYSIS:
-GitHub Contributions:
-Snake Grid
-
-GitHub Statistics:
-	
-Repository Stats & Streak:
-	
-
- RANDOM DEV QUOTE:
-
-
-touhidcodes
-
-PinnedLoading
- Resume-Craft Public
-Resume Craft is an advanced online resume builder created by Code Titans. This team project provides customizable templates and smart features, enabling users to craft professional resumes effortle…
-
- TypeScript  3  3
-
- ApartSol-Web-App Public
-ApartSol is a modern platform designed to simplify the process of buying, renting, and selling properties making it easy for individuals to discover, list, and manage real estate with ease and conf…
-
- TypeScript  4  2
-
- Level-2-Assignment-6-Gift-Shop-Management-Dashboard Public
-The Gift Shop Management Dashboard is a comprehensive system designed to efficiently manage a gift shop's inventory, track sales, and analyze sales history. The dashboard incorporates features such…
-
- TypeScript
-
- PH-7-Summer-Music-Camp-Client Public
-Summer Music Camp is a dynamic full-stack web application designed as a summer school platform for learning musical instruments. Built using the MERN Stack, it provides a seamless experience for st…
-
- JavaScript
-
-1,089 contributions in the last year
-Skip to contributions year list
-Contribution Graph
-Day of Week	SeptemberSep	OctoberOct	NovemberNov	DecemberDec	JanuaryJan	FebruaryFeb	MarchMar	AprilApr	MayMay	JuneJun	JulyJul	AugustAug
-SundaySun																																																					
-MondayMon																																																					
-TuesdayTue																																																					
-WednesdayWed																																																					
-ThursdayThu																																																					
-FridayFri																																																					
-SaturdaySat																																																					
-Learn how we count contributions
-Less
-No contributions.
-Low contributions.
-Medium-low contributions.
-Medium-high contributions.
-High contributions.
-More
-Activity overview
-Contributed to touhidcodes/Almunji-Web-App-v2, touhidcodes/Almunji-Web-App, touhidcodes/Almunji-Web-Server and 18 other repositories
-Loading
- 
-Code review
- 
-Issues
-1%
-Pull requests
-99%
-Commits
-Contribution activity
-September 2026
+<h3 align="left">Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
