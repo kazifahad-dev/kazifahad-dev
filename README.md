@@ -1,68 +1,81 @@
 <h1 align="center">Hi 👋, I'm Kazi Fahad</h1>
-<h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React.js+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-- 🖥️ I'm currently working on **React.js, Next.js, TypeScript** and **Redux** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL,** and **Prisma** for the backend.
-- 🛠️ I'm currently learning **React Native, GraphQL, Docker** and **AWS**.
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore my Portfolio: <a href="#" target="_blank" rel="noopener noreferrer">kazifahad.dev</a> and my <a href="#" target="_blank" rel="noopener noreferrer">Resume</a>
-- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/kazifahad-dev/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- 📫 Feel free to reach me: <a href="mailto:kazifahad.net@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
+- 🖥️ I'm currently working on **React.js, Next.js, Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, PostgreSQL** for backend development.
+- 🛠️ I'm currently learning new tools and technologies to level up my full-stack skills.
+- 💬 Ask me about **Full-Stack Development (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 📫 Feel free to reach me out via <a href="mailto:kazifahad.net@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>.
 
-<h3 align="left">Follow Me on Socials:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/kazifahad-dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kazifahad-dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kazifahad-dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:kazifahad.net@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/kazifahad-dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+</a>
 </p>
 
-<h3 align="left">Technology Stack:</h3>
+<br/>
 
-<p><strong>Languages:</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py" />
+## 🛠️ Technology Stack
+
+#### Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java&theme=dark&perline=8" height="55" alt="languages" />
 </p>
 
-<p><strong>CSS Frameworks & Libraries:</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
+#### Frameworks & Libraries
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,express,tailwind,bootstrap&theme=dark&perline=8" height="55" alt="frameworks" />
 </p>
 
-<p><strong>JavaScript Frameworks & Libraries:</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+#### Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,redis&theme=dark&perline=8" height="55" alt="databases" />
 </p>
 
-<p><strong>Database & Model:</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
+#### Tools & Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel&theme=dark&perline=8" height="55" alt="tools" />
 </p>
 
-<p><strong>Deployment Platform:</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws" />
+#### Design & Graphics
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark&perline=8" height="55" alt="design" />
 </p>
 
-<p><strong>Tools & Technologies:</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,docker" />
-</p>
+<br/>
 
-<h3 align="left">GitHub Statistics & Analysis:</h3>
+## 📊 GitHub Statistics & Analysis
 
+<h4 align="center">GitHub Contributions:</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazifahad-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/kazifahad-dev/kazifahad-dev/output/github-contribution-grid-snake.svg" alt="Snake Grid" />
 </p>
 
+<h4 align="center">GitHub Statistics:</h4>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazifahad-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazifahad-dev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h4 align="center">Repository Stats & Streak:</h4>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazifahad-dev&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Random Dev Quote:</h3>
+<br/>
+
+## 💭 Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
