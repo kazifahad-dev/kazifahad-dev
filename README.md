@@ -1,4 +1,3 @@
-[README_1.md](https://github.com/user-attachments/files/34744217/README_1.md)
 <!-- ========================= BANNER ========================= -->
 <p align="center">
   <img src="./banner.png" alt="Kazi Fahad - Full Stack Developer" width="100%" />
